@@ -2,6 +2,7 @@
 This Java application serves as a simple classroom management tool, allowing users to add and remove students from a class roster. It demonstrates fundamental programming concepts such as user input handling, list manipulation, and control flow structures.
 
 Features
+
 Prompts the user to enter the number of students to add to the class
 
 Allows the user to input each student's name individually
