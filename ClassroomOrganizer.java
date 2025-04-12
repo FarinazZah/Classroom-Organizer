@@ -1,4 +1,3 @@
-// I worked on the homework assignment alone, using only course materials.
 import java.util.Scanner;
 
 public class ClassroomOrganizer {
